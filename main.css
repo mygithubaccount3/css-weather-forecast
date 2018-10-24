@@ -1,0 +1,139 @@
+* {
+    transition: opacity 3s ease-in;
+}
+
+body {
+    background-color: #1f7dff;
+    border: 12px solid #1055b4;
+    margin: 0px;
+}
+
+p {
+    color: white;
+    font-family: "Lucida Sans Unicode", sans-serif;
+    font-size: 18pt;
+    margin-bottom: 3%;
+    margin-left: 15%;
+    margin-top: 3%;
+}
+
+ul {
+    box-sizing: border-box;
+    font-size: 0px;
+    margin: 0 auto;
+    min-width: 150px;
+    padding: 0px;
+    width: 70%;
+}
+
+li {
+    border: 2px solid white;
+    box-sizing: border-box;
+    color: white;
+    font-family: "Lucida Sans Unicode", sans-serif;
+    font-size: 10pt;
+    min-width: 25%;
+    opacity: 0.7;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    text-align: center;
+}
+
+#first-li {
+    background-color: #1f7dff;
+    width: 50%;
+}
+
+#first-li:hover {
+    opacity: 1;
+}
+
+#second-li {
+    background-color: #0ce6ff;
+    width: 25%;
+}
+
+#second-li:hover {
+    opacity: 1;
+}
+
+#third-li {
+    background-color: #a0005f;
+    width: 25%;
+}
+
+#third-li:hover {
+    opacity: 1;
+}
+
+#fourth-li {
+    background-color: #ef1500;
+    width: 25%;
+}
+
+#fourth-li:hover {
+    opacity: 1;
+}
+
+#fifth-li {
+    background-color: #ff4c02;
+    width: 25%;
+}
+
+#fifth-li:hover {
+    opacity: 1;
+}
+
+#sixth-li {
+    background-color: #fbfe32;
+    width: 25%;
+}
+
+#sixth-li:hover {
+    opacity: 1;
+}
+
+#seventh-li {
+    background-color: #76ff5b;
+    width: 25%;
+}
+
+#seventh-li:hover {
+    opacity: 1;
+}
+
+#eighth-li {
+    background-color: #a8ffa7;
+    width: 25%;
+}
+
+#eighth-li:hover {
+    opacity: 1;
+}
+
+#ningth-li {
+    background-color: #ffaaaa;
+    width: 50%;
+}
+
+#ningth-li:hover {
+    opacity: 1;
+}
+
+#tenth-li {
+    background-color: #008a48;
+    width: 25%;
+}
+
+#tenth-li:hover {
+    opacity: 1;
+}
+
+#eleventh-li {
+    background-color: #9900e2;
+    width: 100%;
+}
+
+#eleventh-li:hover {
+    opacity: 1;
+}
