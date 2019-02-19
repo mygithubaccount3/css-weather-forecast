@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "postcss": "postcss -u autoprefixer -o assets/dist/main.css assets/dist/main.css -w"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.4.6",
+    "postcss-cli": "^6.1.1"
+  },
+  "browserslist": [
+    "last 3 version"
+  ]
+}

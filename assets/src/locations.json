@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "data": [
+    {"lat":  38.722, "lng":  -9.139, "name": "Lisbon", "temperature": "21℃", "code": "\uf00d"},
+    {"lat":  48.856, "lng":   2.352, "name": "Paris", "temperature": "11℃", "code": "\uf037"},
+    {"lat":  44.786, "lng":  20.448, "name": "Belgrade", "temperature": "15℃", "code": "\uf002"},
+    {"lat":  55.755, "lng":  37.617, "name": "Moscow", "temperature": "21℃", "code": "\uf07d"},
+    {"lat":  32.085, "lng":  34.781, "name": "Tel-Aviv", "temperature": "32℃", "code": "\uf072"},
+    {"lat":  43.283, "lng":   5.462, "name": "Cair", "temperature": "21℃", "code": "\uf00d"},
+    {"lat":  40.712, "lng": -74.005, "name": "New-York", "temperature": "17℃", "code": "\uf010"},
+    {"lat":  28.613, "lng":  77.209, "name": "New-Delhi", "temperature": "17℃", "code": "\uf008"},
+    {"lat":  37.774, "lng":-122.419, "name": "San-Francisco", "temperature": "15℃", "code": "\uf008"},
+    {"lat":  35.689, "lng": 139.691, "name": "Tokyo", "temperature": "8℃", "code": "\uf008"},
+    {"lat": -33.868, "lng": 151.209, "name": "Sydney", "temperature": "25℃", "code": "\uf008"}
+  ]
+}

@@ -1,1 +1,4 @@
 .idea
+.gitignore
+fonts
+node_modules
